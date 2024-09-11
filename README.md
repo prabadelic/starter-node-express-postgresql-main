@@ -2,6 +2,8 @@
 
 This starter code is intended to be run for the *Node.js, Express, and PostgreSQL* module in the Chegg Skills curriculum.
 
+The backend is hosted on via [Render](https://starter-node-express-postgresql-main.onrender.com/products)
+
 ## Existing files
 
 As you work through the *Node.js, Express, and PostgreSQL* module, you will be writing code that allows your controllers to connect to and query your PostgreSQL database via [Knex](http://knexjs.org/). The table below describes the files and folders in the starter code:

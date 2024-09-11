@@ -2,7 +2,7 @@
 
 This starter code is intended to be run for the *Node.js, Express, and PostgreSQL* module in the Chegg Skills curriculum.
 
-The backend is hosted on via [Render](https://starter-node-express-postgresql-main.onrender.com/products)
+The backend is hosted via [Render](https://starter-node-express-postgresql-main.onrender.com/products)
 
 ## Existing files
 
